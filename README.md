@@ -1,4 +1,4 @@
-<h1 align="center">Olá mundo 🌎 Meu nome é Paulo e seja bem vindo(a) ao meu Github</h1>
+<h1 align="center">Olá mundo 🌎 Meu nome é Paulo, mas pode me chamar de Pallo. Seja bem vindo(a) ao meu Github</h1>
 <h3 align="center">Brasileiro, desenvolvedor backend apaixonado por tecnologias 💻, por jogos 👾 e por Maya 🐶</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plmts&label=Profile%20views&color=0e75b6&style=flat" alt="plmts" /> </p>
